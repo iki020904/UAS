@@ -25,6 +25,6 @@ Cara Menjalankan Program :
 
 Berikut link repository github :
 
-[iki020904] (https://github.com/iki020904/UAS.git)
+[iki020904](https://github.com/iki020904/UAS.git)
 
 Sekian, Terima Kasih
