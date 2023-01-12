@@ -21,7 +21,7 @@ Cara Menjalankan Program :
 [Modul Menerapkan MVC pada Bahasa Pemrograman Python](https://docs.google.com/document/d/1t5mX0e7W3YQR1kgab3irkm_H0eZF27O9bNlRD6ayTDc/edit?usp=drivesdk)
 
 ### Untuk penjelasan program berupa video silahkan kunjungi link berikut :
-[Video](https://drive.google.com/file/d/10Zg8LMcKPar3VTedVahHVoiCq8qvaMNl/view?usp=drivesdk)
+[Video](https://youtu.be/3etBGDj4UDU)
 
 Berikut link repository github :
 
